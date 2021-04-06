@@ -1,4 +1,4 @@
-# <p align="center"> JOBA Telegram-бот
+# <p align="center"> ЖОБА Telegram-бот
   
 <p align="center"> <img src="https://github.com/Nouhelgod/python_JOBA_telegram/blob/main/JOBA.png"> 
 
