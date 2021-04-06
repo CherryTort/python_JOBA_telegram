@@ -1,5 +1,4 @@
 # <p align="center"> JOBA Telegram-бот
-## Добро пожаловать в репозиторий ЖОБЫ
   
 <p align="center"> <img src="https://github.com/Nouhelgod/python_JOBA_telegram/blob/main/JOBA.png"> 
 
